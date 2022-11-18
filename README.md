@@ -2,10 +2,10 @@
 Web Scrapping on the IBAN website and capturing a list of countries and their reference currencies.
 
 ## Source Code
-You can also download [Negociador de Moedas 1.0](https://github.com/joeywheelersam/Negociador-de-Moedas-1.0) directly from its [Git repository](https://github.com/joeywheelersam/maratona-python.git):
+You can also download [Negociador de Moedas 1.0](https://github.com/joeywheelersam/Negociador-de-Moedas-1.0) directly from its [Git repository](https://github.com/joeywheelersam/Negociador-de-Moedas-1.0.git):
 
 ```
-git clone https://github.com/joeywheelersam/Negociador-de-Moedas-1.0
+git clone https://github.com/joeywheelersam/Negociador-de-Moedas-1.0.git
 ```
 
 ## Dependencies
