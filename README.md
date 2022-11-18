@@ -2,14 +2,14 @@
 Web Scrapping on the IBAN website and capturing a list of countries and their reference currencies.
 
 ## Source Code
-You can also download [Negociador de Moedas 1.0](https://github.com/joeywheelersam/Negociador-de-Moedas-1.0) directly from its [Git repository](https://github.com/joeywheelersam/Negociador-de-Moedas-1.0.git):
+You can also download [Negociador de Moedas 1.0](https://github.com/joeywheelersam/negociador_de_moedas_1.0) directly from its [Git repository](https://github.com/joeywheelersam/Negociador-de-Moedas-1.0.git):
 
 ```
-git clone https://github.com/joeywheelersam/Negociador-de-Moedas-1.0.git
+git clone https://github.com/joeywheelersam/negociador_de_moedas_1.0.git
 ```
 
 ## Dependencies
-[Negociador de Moedas 1.0](https://github.com/joeywheelersam/Negociador-de-Moedas-1.0) works out of the box with [Python 3.10](https://www.python.org/downloads/release/python-3100/) on any platform and requires the following packages:
+[Negociador de Moedas 1.0](https://github.com/joeywheelersam/negociador_de_moedas_1.0) works out of the box with [Python 3.10](https://www.python.org/downloads/release/python-3100/) on any platform and requires the following packages:
 - [Requests 2.28.1+](https://pypi.org/project/requests/)
 - [Beautiful Soup 4.11.1+](https://pypi.org/project/beautifulsoup4/)
 
@@ -33,4 +33,4 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-[Negociador de Moedas 1.0](https://github.com/joeywheelersam/Negociador-de-Moedas-1.0) is free software, keeping the picture can USE AND ABUSE 
+[Negociador de Moedas 1.0](https://github.com/joeywheelersam/negociador_de_moedas_1.0) is free software, keeping the picture can USE AND ABUSE 
